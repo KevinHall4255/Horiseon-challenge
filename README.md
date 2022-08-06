@@ -7,11 +7,11 @@ For this assignment i was asked to use HTML and CSS to refactor an existing imag
 
 ## Acceptance Criteria 
 
-    * Semantic HTML elements and structure the elements to follow a logical structure independent of styling and positioning.
-    * Add accessible alt attributes on all image elements
-    * Place the heading attributes in sequential order
-    * Add a concise and descriptive title
-    * Fix all non functioning buttons
+* Semantic HTML elements and structure the elements to follow a logical structure independent of styling and positioning.
+* Add accessible alt attributes on all image elements
+* Place the heading attributes in sequential order
+* Add a concise and descriptive title
+* Fix all non functioning buttons
 
 ## Work Completed and Changes Made
 
