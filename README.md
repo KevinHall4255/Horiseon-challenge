@@ -15,12 +15,12 @@ For this assignment i was asked to use HTML and CSS to refactor an existing imag
 
 ## Work Completed and Changes Made
 
-    * Added a concise and descriptive title
-    * Placed the heading attributes in sequential order
-    * Added accessible alt attributes on the image elements
-    * Cleaned up and corrected the HTML elements and CSS selectors to make the code properly function and become easier to read
-    * Added notes on CSS describing when a section starts and ends
-    * Added structure to HTML elements and placed them in a logical structure, independent of styling and positioning.
+* Added a concise and descriptive title
+* Placed the heading attributes in sequential order
+* Added accessible alt attributes on the image elements
+* Cleaned up and corrected the HTML elements and CSS selectors to make the code properly function and become easier to read
+* Added notes on CSS describing when a section starts and ends
+* Added structure to HTML elements and placed them in a logical structure, independent of styling and positioning.
 
 ## Website Deploy Link
 
