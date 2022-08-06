@@ -24,12 +24,17 @@ For this assignment i was asked to use HTML and CSS to refactor an existing imag
 
 ## Website Deploy Link
 
-[deploy link](https://kevinhall4255.github.io/Horiseon-challenge/)
+[Deploy link](https://kevinhall4255.github.io/Horiseon-challenge/)
+
+
+
+[Link to github repo](https://github.com/KevinHall4255/Horiseon-challenge)
 
 ## Screenshot
 
+![](/assets/images/kevinhall4255.github.io_Horiseon-challenge_.png)
 
 
 
 ## Contact imformation
-
+[My Github](https://github.com/KevinHall4255)
